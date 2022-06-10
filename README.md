@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AvinashB95
 - 👀 I’m interested in Python programming and Data Engineering
-- 🌱 I’m currently learning Data Engineering
-- 💞️ I’m looking to collaborate on Data bricks and Apache Spark
+- 🌱 I’m currently working as Data Engineering/Python Developer
+- 💞️ I’m looking to collaborate on AWS data Engineering
 - 📫 @avinashdevadiga95@gmail.com
 
 <!---
