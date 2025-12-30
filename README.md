@@ -9,7 +9,7 @@ I have hands-on experience working with **large-scale ETL systems**, real-time a
 
 ## 💼 Current Role
 **Senior Data Engineer**  
-📍 *JPMorgan Chase & Co., Bangalore*
+📍 *Bangalore*
 
 - Designing and managing enterprise-grade data pipelines using **Apache Airflow, PySpark, and AWS**
 - Working extensively with **Databricks, Apache NiFi, Redshift, Hive, HDFS, Spark**
