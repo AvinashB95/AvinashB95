@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Avinash Devadiga (@AvinashB95)
 
 ## 🚀 About Me
-Senior Data Engineer with **8+ years of experience** designing, building, and optimizing scalable data pipelines across **financial services, telecom, and enterprise platforms**. I specialize in **Python-based data engineering**, distributed data processing, and cloud-native architectures on **AWS**.
+Senior Data Engineer with **10 years of experience** designing, building, and optimizing scalable data pipelines across **financial services, telecom, and enterprise platforms**. I specialize in **Python-based data engineering**, distributed data processing, and cloud-native architectures on **AWS**.
 
 I have hands-on experience working with **large-scale ETL systems**, real-time and batch pipelines, and modern data stacks, with a strong focus on reliability, performance, and data quality.
 
